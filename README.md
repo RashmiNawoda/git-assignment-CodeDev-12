@@ -2,7 +2,8 @@
 
 This Java class, WashingMachine, represents the basic structure of a washing machine with essential properties such as brand, model, capacity, color, status, and timer. The class provides default and parameterized constructors, allowing the creation of washer objects with specified or default property values.
 
-qualities:
+
+###qualities:
 
 Brand: The brand name of the washing machine.
 Model: Model type of washing machine.
