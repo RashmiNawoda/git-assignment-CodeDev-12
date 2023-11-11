@@ -62,6 +62,8 @@ public class WashingMachine {
         // Print updated attribute values
         System.out.println("\nWashing Machine 1 (After Change):");
         washingMachine1.printData();
+
+        //printupdated attribute values in washine machine 2 after changers
         System.out.println("\nWashing Machine 2 (After Change):");
         washingMachine2.printData();
     }
