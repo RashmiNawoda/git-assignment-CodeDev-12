@@ -49,9 +49,10 @@ public class WashingMachine {
         WashingMachine washingMachine1 = new WashingMachine("LG", "Front-load", 8, "Silver", "Off", 60);
         WashingMachine washingMachine2 = new WashingMachine("Whirlpool", "Top-load", 10, "White","off",45);
 
-        // Print attribute values of the objects
+        // Print attribute values in Washine Machine 1
         System.out.println("Washing Machine 1:");
         washingMachine1.printData();
+        // Print attribute values in washine machine 2
         System.out.println("\nWashing Machine 2:");
         washingMachine2.printData();
 
